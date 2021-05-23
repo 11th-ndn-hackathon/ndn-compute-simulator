@@ -1,10 +1,14 @@
 NDN Compute Simulator (ndnCSIM)
 ======
+
 The aim of this hackathon project is to provide following basic implementation
+
 • Enable consumer node to randomly select service name. We aim to develop a separate consumer
 compute application in ndnSIM
+
 • Enable NFD to monitor the running computations on a node (schedule events to delay
 data packet forwarding if computation is running. Provide all of the basic service based compute functionalities such as add to service queue, fetch from service queue by id,name or both, mainitaing node resource utilizations, and service execution functionalities. 
+
 • Producer compute application responsible for similar tasks as mentioned above for NFD.
 
 ndnSIM
