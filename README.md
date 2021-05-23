@@ -1,3 +1,12 @@
+NDN Compute Simulator (ndnCSIM)
+======
+The aim of this hackathon is to provide following basic implementation
+• Enable consumer node to randomly select service name We aim to develop a separate consumer
+compute application in ndnSIM
+• Enable NFD to monitor the running computations on a node ( schedule events to delay
+data packet forwarding if computation is running
+• Producer compute application Responsible for similar task as mentioned above for NFD Moreover,
+
 ndnSIM
 ======
 
